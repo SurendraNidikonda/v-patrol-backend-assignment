@@ -1,0 +1,17 @@
+
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    background-color: white;
+}
+button{
+    background-color: rgb(10, 106, 138);
+    color: #ffffff;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-top: 30px;
+    
+}
+

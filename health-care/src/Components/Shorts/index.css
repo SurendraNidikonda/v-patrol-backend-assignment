@@ -1,0 +1,42 @@
+.image{
+    width: 650px;
+    height: 200px;
+    margin-top: 30px;
+
+}
+.short-container{
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    border-radius: 20px;
+    width: 700px;
+    margin-left: 300px;
+}
+.heading{
+    font-weight: bold;
+    width: 150px;
+    padding-left: 20px;
+   
+}
+.paragraph{
+    color: grey;
+    
+    
+}
+.button{
+    border-style: none;
+    border-width: 0px;
+    background-color: transparent;
+    color: black;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.like-button{
+    color: blue;
+    border-style: none;
+    border-width: 0px;
+    background-color: transparent;
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}

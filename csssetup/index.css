@@ -1,0 +1,47 @@
+
+/* rgb  colors (Red,Green,Blue)*/
+
+ /* calc() function */
+
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    height: 300px;
+    background-color: aqua;
+    font-size: 2em;
+    font-weight: bolder;
+   
+
+}
+
+button{
+    background-color: blue;
+    padding: 5rem;
+    margin: 1rem;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.first{
+    outline: solid 10px red;
+}
+.second{
+    outline: solid 10px red;
+}

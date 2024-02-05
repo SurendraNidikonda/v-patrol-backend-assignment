@@ -1,0 +1,27 @@
+.login-page{
+    margin-top: 150px;
+    text-align: center;
+}
+.username{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+}
+.username-text{
+  padding-right: 100px;
+  font-weight: bold;
+}
+.password{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+}
+.password-text{
+    padding-right: 100px; 
+    font-weight: bold;
+}
+.button{
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.home-page{
+    text-align: center;
+}
+.card{
+    text-align: center;
+    
+  }
+  .logo-title{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: beige;
+  }
+  .text{
+    text-decoration: none;
+  }
+  .logo{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+  }

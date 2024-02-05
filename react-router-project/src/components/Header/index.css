@@ -1,0 +1,13 @@
+.text{
+    text-decoration: none;
+}
+.header{
+    margin-top: 50px;
+    background-color: aqua;
+    height: 50px;
+    padding-top: 20px;
+
+}
+.active{
+    color: black;
+}
